@@ -1,0 +1,174 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         53
+	Longest value:         7 characters
+	Most common values:    B001294 (13x)
+	                       None (9x)
+	                       C001105 (6x)
+	                       S001177 (6x)
+	                       J000288 (4x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         56
+	Longest value:         33 characters
+	Most common values:    HON. ROD BLUM (13x)
+	                       HON. BARBARA COMSTOCK (6x)
+	                       HON. GREGORIO SABLAN (6x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (5x)
+	                       HON. HENRY C. "HANK" JOHNSON  JR. (4x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (107x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (98x)
+	                       GENERAL EXPENDITURES (4x)
+	                       WOUNDED WARRIOR EXPENSES (3x)
+	                       ADMIN AND OPS (2x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         25 characters
+	Most common values:    PRINTING AND REPRODUCTION (107x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         44
+	Smallest value:        2017-01-10
+	Largest value:         2017-03-30
+	Most common values:    2017-01-19 (12x)
+	                       2017-02-17 (12x)
+	                       2017-01-11 (9x)
+	                       2017-03-21 (6x)
+	                       2017-02-27 (4x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (107x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         72
+	Longest value:         8 characters
+	Most common values:    900647 (11x)
+	                       904174 (10x)
+	                       897062 (9x)
+	                       912200 (6x)
+	                       E0487771 (2x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         48
+	Longest value:         37 characters
+	Most common values:    CITI PCARD-FACEBK (25x)
+	                       HON ROD BLUM (13x)
+	                       FRANKING GROUP ONLINE (7x)
+	                       MONSTER WORLDWIDE INC (3x)
+	                       FRANKING GRID LLC (3x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         63
+	Smallest value:        2015-12-20
+	Largest value:         2017-03-01
+	Most common values:    2016-11-29 (11x)
+	                       2016-12-29 (8x)
+	                       2017-01-29 (6x)
+	                       2017-02-01 (3x)
+	                       2017-01-19 (3x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         57
+	Smallest value:        2016-01-02
+	Largest value:         2017-03-08
+	Most common values:    2016-12-28 (12x)
+	                       2017-01-02 (10x)
+	                       2017-02-28 (9x)
+	                       2016-12-31 (9x)
+	                       2017-01-31 (3x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         14 characters
+	Most common values:    ADVERTISEMENTS (107x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         92
+	Smallest value:        500.09
+	Largest value:         33,255.18
+	Sum:                   307,212.79
+	Mean:                  2,871.148
+	Median:                1,215
+	StDev:                 4,612.992
+	Most common values:    1,000 (3x)
+	                       2,000 (3x)
+	                       1,500 (3x)
+	                       10,000 (3x)
+	                       2,450 (2x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   215,758
+	Mean:                  2,016.43
+	Median:                2,016
+	StDev:                 0.497
+	Most common values:    2,016 (61x)
+	                       2,017 (46x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         48
+	Longest value:         37 characters
+	Most common values:    CITI PCARD-FACEBK (25x)
+	                       HON ROD BLUM (13x)
+	                       FRANKING GROUP ONLINE (7x)
+	                       MONSTER WORLDWIDE INC (3x)
+	                       FRANKING GRID LLC (3x)
+
+Row count: 107
